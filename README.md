@@ -1,3 +1,7 @@
+i want to you to check ClickReconstruct.py and webcamReconstruct.py
+you need to check the v4l2-ctl --list-devices to use a lot of webcam
+
+
 <div align="center">
 <h1>VGGT: Visual Geometry Grounded Transformer</h1>
 
